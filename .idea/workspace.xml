@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b12c0b5-7784-4d5e-9883-02b6aa4af1bc" name="Changes" comment="add function age() to main()" />
+    <list default="true" id="9b12c0b5-7784-4d5e-9883-02b6aa4af1bc" name="Changes" comment="rename change_main to dev" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,21 +25,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dmitry-Kru"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dmitry-Kru&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dmitry-Kru/merging_branches_test.git",
-    "accountId": "53e4f11f-704f-418e-8c2a-4c3f8ae36b80"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dmitry-Kru/merging_branches_test.git&quot;,
+    &quot;accountId&quot;: &quot;53e4f11f-704f-418e-8c2a-4c3f8ae36b80&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2snvoxwTfpAQMPtbaiE6Kyh0Eno" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,7 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "change__main"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -83,12 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739104937427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rename change_main to dev">
+      <option name="closed" value="true" />
+      <created>1739108560832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739108560832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add function hello()" />
     <MESSAGE value="add function age() to main()" />
-    <option name="LAST_COMMIT_MESSAGE" value="add function age() to main()" />
+    <MESSAGE value="rename change_main to dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename change_main to dev" />
   </component>
 </project>
